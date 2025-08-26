@@ -6,10 +6,16 @@
 
 ## 🎯 Desafio 🎯
 
-Desenvolver um sistema integrado baseado em Inteligência Artificial para gerenciamento de chamados e suporte técnico, proporcionando uma experiência mais eficiente para clientes, técnicos e administradores.
+Projetar e desenvolver um sistema integrado baseado em Inteligência Artificial para gerenciamento de chamados e suporte técnico, proporcionando uma experiência otimizada e centralizada para clientes, técnicos e administradores.
+
+## 🖼️ Cenário 🖼️
+
+Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas da priorização. A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do problema.
 
 ## 🔧 Solução 🔧
-Este sistema permitirá que os usuários clientes, ou seja, funcionários em geral da empresa atendida, abram chamados de suporte de TI para software e hardware, recebam uma sugestão automática provida pela Inteligência Artificial integrada e também, opcionalmente, um atendimento com profissionais técnicos. Estes poderão visualizar os chamados atribuídos a si, as informações sobre a solicitação e dados para contato dos clientes. Simultaneamente, um usuário master administrador irá gerenciar os usuários e relatórios, bem como acessar todas as funcionalidades.
+
+Construção de um sistema que permitirá que os usuários clientes, ou seja, os funcionários da empresa atendida, abram chamados de suporte de TI para hardware e software e recebam uma solução automática como sugestão provida pela Inteligência Artificial integrada, após isso informarão ao sistema se a sugestão foi eficiente ou não, caso o cenário seja negativo, o chamado será direcionado a um atendimento humanizado técnico. 
+Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuídos a si, as informações sobre estes e os dados do solicitantes. Adicionalmente, o administrador terá a posição de usuário master, gerenciando usuários e relatórios, bem como tendo acesso a todas as funcionalidades.
 
 
 ## 📝 Backlog de Produto 📝
