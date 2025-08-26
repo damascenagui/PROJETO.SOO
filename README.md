@@ -20,7 +20,7 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 
 ## 📝 Backlog de Produto 📝
 
-## Acesse o [Backlog](https://github.com/Jotaphp/PSOO-4-Semestre/blob/main/PRODUCT%20BACKLOG%20v3.pdf)
+Veja o BackLog na integra clicando [aqui](https://github.com/damascenagui/PROJETO.SOO/blob/main/Diagramas%20UML/PRODUCT%20BACKLOG%20v3.pdf)
 ## 📆 Cronograma de evolução do produto 📆
 
 | Sprint | Período | Documentação |
@@ -34,10 +34,6 @@ Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuí
 <a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
-## 🏠 Estrutura do Projeto 🏠
-
-
-## 🔺 Como executar, usar e testar o projeto 🔺
 
 
 ## 💻 EQUIPE 💻
