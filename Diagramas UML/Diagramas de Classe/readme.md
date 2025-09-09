@@ -8,3 +8,6 @@
 
 <h2> Classe I.A:</h2>
 <img width="192" height="120" alt="image" src="https://github.com/user-attachments/assets/0592c791-5414-47d0-8ea3-5adee904fe60" />
+
+<h2> Classe Relatório</h2>
+<img width="210" height="127" alt="image" src="https://github.com/user-attachments/assets/6bbeef5b-c25b-4bfc-b481-031a1489a950" />
