@@ -10,5 +10,5 @@ Nela, estão disponível seus atributos e métodos, além de seu nome.
 
 <h1>Diagrama de Objeto</h1>
 
-Um ojbeto é uma instância de uma classe, logo, o diagrama de objetos demosntra como será um objeto no
+Um objeto é uma instância de uma classe, logo, o diagrama de objetos demosntra como será um objeto no
 programa, sendo instanciado, ou seja, possuindo valores.
