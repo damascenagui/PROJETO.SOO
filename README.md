@@ -25,8 +25,11 @@ Veja o BackLog na integra clicando [aqui](https://github.com/damascenagui/PROJET
 
 | Sprint | Período | Documentação |
 |----------|--------|------------|
-| 🎟  **SPRINT 1** | 19/08 - 25/08 | XXX |
-
+| 🎟  **SPRINT 1** | 19/08 - 25/08 | Diagrama de Caso de Uso. |
+| 🎟  **SPRINT 2** | 26/08 - 01/09 | Diagrama de Classes. |
+| 🎟  **SPRINT 3** | 02/09 - 08/09 | Diagrama de Objeto. |
+| 🎟  **SPRINT 4** | 09/09 - 15/09 | Diagrama de sequência. |
+| 🎟  **SPRINT 5** | 16/09 - 22/09 | Diagrama de comunicação. |
 
 ## 💻 Tecnologias Utilizadas 💻
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
