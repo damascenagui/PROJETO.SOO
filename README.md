@@ -4,18 +4,11 @@
 
 <div align="center"> <h1> HELPBOX - Projeto de Sistemas Orientados a Objetos </h1> </div>
 
-## 🎯 Desafio 🎯
+## 🎯 Desafio (dor do Parceiro) 🎯
 
 Projetar e desenvolver um sistema integrado baseado em Inteligência Artificial para gerenciamento de chamados e suporte técnico, proporcionando uma experiência otimizada e centralizada para clientes, técnicos e administradores.
 
-## 🖼️ Cenário 🖼️
-
 Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas da priorização. A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do problema.
-
-## 🔧 Solução 🔧
-
-Construção de um sistema que permitirá que os usuários clientes, ou seja, os funcionários da empresa atendida, abram chamados de suporte de TI para hardware e software e recebam uma solução automática como sugestão provida pela Inteligência Artificial integrada, após isso informarão ao sistema se a sugestão foi eficiente ou não, caso o cenário seja negativo, o chamado será direcionado a um atendimento humanizado técnico. 
-Os usuários com cargo de técnicos conseguirão visualizar os chamados atribuídos a si, as informações sobre estes e os dados do solicitantes. Adicionalmente, o administrador terá a posição de usuário master, gerenciando usuários e relatórios, bem como tendo acesso a todas as funcionalidades.
 
 
 ## 📝 Backlog de Produto 📝
@@ -37,6 +30,10 @@ Veja o BackLog na integra clicando [aqui](https://github.com/damascenagui/PROJET
 <a href="https://www.w3schools.com/js"><img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 <a href="https://www.figma.com"><img src="https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma&logoColor=white"/></a>
 <a href="https://www.w3schools.com/sql/default.asp"><img src="https://img.shields.io/badge/MySql-%2300758f?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
 
 
 ## 💻 EQUIPE 💻
