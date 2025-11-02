@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/25c3b68e-e1f5-4edc-9709-054ffd1efca3" width="550"/>
 </div>
 
-<div align="center"> <h1> HELPBOX - Projeto de Sistemas Orientados a Objetos </h1> </div>
+<div align="center"> <h1> HelpBox - Projeto de Sistemas Orientado a Objetos </h1> </div>
 
 ## 🎯 Desafio (dor do Parceiro) 🎯
 
@@ -11,18 +11,11 @@ Projetar e desenvolver um sistema integrado baseado em Inteligência Artificial 
 Uma empresa de médio porte possui um setor de TI responsável por atender solicitações internas de suporte técnico. Atualmente todas as requisições são recebidas por e-mail ou telefone, o que gera dificuldades no controle dos chamados, atrasos e falhas da priorização. A empresa deseja adotar um sistema integrado, no qual os colaboradores possam registrar suas solicitações e a IA possa sugerir soluções automáticas ou encaminhar ao técnico adequado com base no histórico de chamados e complexidade do problema.
 
 
-## 📝 Backlog de Produto 📝
+## 📝 [Backlog de Produto]() 📝
 
-Veja o BackLog na integra clicando [aqui](https://github.com/damascenagui/PROJETO.SOO/blob/main/Diagramas%20UML/PRODUCT%20BACKLOG%20v3.pdf)
-## 📆 Cronograma de evolução do produto 📆
+## 📈[Cronograma de evolução do Projeto]() 📈
 
-| Sprint | Período | Documentação |
-|----------|--------|------------|
-| 🎟  **SPRINT 1** | 19/08 - 25/08 | Diagrama de Caso de Uso. |
-| 🎟  **SPRINT 2** | 26/08 - 01/09 | Diagrama de Classes. |
-| 🎟  **SPRINT 3** | 02/09 - 08/09 | Diagrama de Objeto. |
-| 🎟  **SPRINT 4** | 09/09 - 15/09 | Diagrama de sequência. |
-| 🎟  **SPRINT 5** | 16/09 - 22/09 | Diagrama de comunicação. |
+## 📆 [Sprint Backlog]() 📆
 
 ## 💻 Tecnologias Utilizadas 💻
 <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -35,14 +28,19 @@ Veja o BackLog na integra clicando [aqui](https://github.com/damascenagui/PROJET
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
 <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/></a>
 
+## ⚙️ [Estrutura do projeto]() ⚙️
 
-## 💻 EQUIPE 💻
+## ⏯️ [Como executar, usar e testar o projeto]() ⏯️
+
+## 💼 [Pasta de Documentação (DoR, DoD e Manual de Usuário)]() 💼
+
+## 💻 Equipe 💻
 
 | Nome     | GitHub | Função     |
 |----------|--------|------------|
 | Vanessa Helena Bandeli Scarin. | [@vanessascarin](https://github.com/vanessascarin) | Product Owner 👩‍💼. |
 | Agatha Kethyllen Ribeiro de Oliveira. | [@agathaketh](https://github.com/agathaketh) | Scrum Master 👩‍💼. |
-| Camilly Vitória Menezes Rodrigues. | [@camillyvii](https://github.com/camillymenezes) | Developer Team 👩‍💻. |
+| Camilly Vitória Menezes Rodrigues. | [@camillymenezes](https://github.com/camillymenezes) | Developer Team 👩‍💻. |
 | Guilherme dos Santos Damascena. | [@damascenagui](https://github.com/damascenagui) | Developer Team 👩‍💻. |
 | Micaias Leonardo Costa Viola. | [@micaiasviola](https://github.com/micaiasviola) | Developer Team 👩‍💻. |
 | João Lucas Alves Gregorio. | [@Jotaphp](https://github.com/Jotaphp) | Developer Team 👩‍💻. |
